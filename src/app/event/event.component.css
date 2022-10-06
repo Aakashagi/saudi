@@ -1,0 +1,15 @@
+.title {
+    width: auto;
+    height: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 30px;
+    font-weight: bold;
+}
+a {
+    color: black;
+    margin-left: 30px;
+}
+
+a:hover {
+    color:rgb(255, 0, 0);
+}

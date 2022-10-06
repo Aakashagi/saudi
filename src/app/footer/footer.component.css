@@ -1,0 +1,39 @@
+.rounded {
+    width: 180px;
+    height: 180px;
+}
+
+.cls4 {
+  
+    padding: 20px;
+}
+
+.cls1 {
+    background-color: rgb(240, 240, 240);
+}
+
+p {
+    margin-top: 60px;
+}
+
+h2 {
+    margin-top: 40px;
+    color:red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+button {
+    margin-bottom: 20px;
+    margin-top: 40px;
+    background-color: aqua;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+
+.end {
+    background-color: rgb(0, 234, 255);
+    text-align: center;
+    height: 50px;
+}
+.cent {
+    padding: 10px;
+}

@@ -1,0 +1,13 @@
+.title {
+    background-color: rgb(167, 167, 167);
+    width: auto;
+    height: 40px;
+}
+a {
+    color: black;
+    margin-left: 30px;
+}
+
+a:hover {
+    color: rgb(0, 255, 225);
+}
